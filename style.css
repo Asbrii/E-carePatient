@@ -1,0 +1,22 @@
+*{
+   background :linear-gradient(to right,rgb(107, 214, 249)
+   ,rgb(101, 173, 218))
+}
+#formed{
+    margin-left: 600px;
+}
+#pat{
+    height: 250px;
+    width: 1540px;
+    margin-left:-10px;
+}
+#reg{margin-left: 600px ;
+font-size: 30px;
+font-family: monospace;}
+
+#side{
+    margin-left: -10px;
+    margin-top: -560px;
+    height: 550px;
+    width: 580px;
+}
